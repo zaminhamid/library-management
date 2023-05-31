@@ -1,0 +1,100 @@
+body {
+  overflow-y: scroll !important;
+}
+
+.background-image {
+  background-image: url('https://imagedelivery.net/9sCnq8t6WEGNay0RAQNdvQ/UUID-cl9jytytf2950ppna8fsjr1o9/public');
+  filter: grayscale(170%);
+   
+  width: 100%;
+  height: 100vh;
+  
+  top: 0;
+  left: 0;
+  z-index: -1;
+  
+ 
+
+  
+}
+
+
+
+
+
+.navbar-brand {
+  
+  font-size: 30px !important;
+  font-style: italic;
+  color: rgb(205, 180, 238) !important;
+ 
+
+
+}
+
+.h1,h1{
+  color: white !important;
+  margin-left: 38%;
+}
+
+
+.col-form-label {
+  color: black !important;
+  font-size: xlarge !important;
+  
+}
+.form-check-label {
+  color: black  !important;
+  font-style: italic !important;
+  font-size: larger !important;
+  font-weight: bold !important;
+}
+
+tbody td {
+  color: black!important;
+  font-size: larger !important;
+  background-color: rgb(187, 28, 187);
+  
+}
+
+
+ 
+  
+  
+  
+  
+.table{
+color: black !important;
+font-style: italic !important;
+font-size: large !important;
+ 
+}  
+  
+#nameCount{
+  background-color: #3B3B3B !important;
+  color:white!important;
+}  
+  
+  
+
+#authorCount {
+  background-color:#3B3B3B !important;
+  color:white!important;
+}
+#dateCount {
+  background-color: #3B3B3B !important;
+  color:white!important;
+}
+#typeCount {
+  background-color: #3B3B3B!important;
+  color:white!important;
+}        
+
+    
+  
+  
+.table-container {
+  overflow-y: auto !important;
+  max-height: 100px !important; /* Adjust the height as needed */
+}
+
